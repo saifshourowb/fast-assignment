@@ -1,0 +1,332 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* head style start from here */
+
+.head{
+	padding: 20px;
+}
+
+.mid{
+	width: 80%;
+	display: flex;
+    padding: 30px 119px;
+	
+}
+
+.head-left{
+    width: 130%;
+    padding: 10px 130px;
+}
+
+.head-1{
+	border-left: 3px solid #FF7675;
+	
+}
+.head-1 h1{
+	font-size: 40px;
+	margin-top: 2px;
+	margin-left: 5px;
+    color: gray;
+	
+}
+
+.head-1 h2{
+	font-size: 40px;
+	margin-top: 2px;
+	margin-left: 5px;
+}
+
+.head-1 h2 span{
+    color: orange
+}
+
+.head-2 p{
+	width: 109%;
+	margin-top: 10px;
+    color: gray;
+}
+.head-2 a{
+	text-decoration: none;
+    padding: 8px 10px;
+    background-color: #ff7979;
+    margin-top: 12px;
+    display: block;
+    width: 26%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 12px;
+    border-radius: 3px;;
+}
+#small{
+	font-size: 11px;
+    color: gray;
+}
+
+.head-image img{
+	width: 60%;
+	margin-top: -38px;
+
+}
+
+/*head style end form here */
+
+/* mission style start from here */
+.mission{
+    padding: 30px;
+}
+.my-mission-1 h1{
+    text-align: center;
+    font-size: 35px;
+    color: #2c2c54;
+}
+
+.my-mission-1 h1 span{
+    color:#f0932b ;
+}
+
+.my-mission-2{
+    display: flex;
+    padding: 20px 220px;
+    margin-top: 20px;
+    
+}
+
+
+.mission-box1{
+    margin-left: 18px;
+    padding: 30px 20px;
+    border-radius: 10px; 
+    background-color: #dff9fb;
+}
+
+.mission-box1 h2{
+    font-size:20px;
+    margin-top: 5px;
+}
+.mission-box1 p{
+    width: 101%;
+    font-size: 13px;
+    color: gray;
+    margin-top: 10px;    
+}
+
+.mission-box1 img{
+    width: 55%;
+}
+
+
+
+.mission-box2{
+    margin-left: 18px;
+    padding: 30px 20px;
+    border-radius: 10px;
+    background-color: #ffcccc;
+    
+}
+
+.mission-box2 h2{
+    font-size:20px;
+    margin-top: 5px;
+
+}
+.mission-box2 p{
+    width: 101%;
+    font-size: 13px;
+    color: gray;
+    margin-top: 10px;
+    
+}
+
+.mission-box2 img{
+    width: 55%;
+}
+
+
+.mission-box3{
+    margin-left: 18px;
+    padding: 30px 20px;
+    border-radius: 10px;
+    background-color: #fad390;
+}
+
+.mission-box3 h2{
+    font-size:20px;
+    margin-top: 5px;
+
+}
+.mission-box3 p{
+    width: 101%;
+    font-size: 13px;
+    color: gray;
+    margin-top: 10px;   
+}
+
+.mission-box3 img{
+    width: 55%;
+}
+
+/* mission style end from here */
+
+/* develop style start from here */
+.develop{
+    padding: 20px;
+     
+}
+
+
+.develop-box{
+    display: flex;
+    padding: 35px 245px;
+}
+
+.develop-text{
+    margin-top: 40px;
+    margin-left: -156px;   
+}
+
+.develop-text h1{
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.develop-text h2{
+    font-size: 28px;
+    margin-top: 3px;
+}
+
+.develop-text p{
+    width: 117%;
+    font-size: 15px;
+    color: gray;
+    margin-top: 5px;
+}
+
+.develop-text a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 7px;
+    width: 60%;
+    background-color: #ff7675;
+    text-align: center;
+    border-radius: 3px;
+    color: #ffffff;
+    margin-top: 16px;
+    font-size: 13px;
+}
+
+.develop-image img{
+    width: 47%;
+}
+/* develop style end from here */
+
+/* global style start from here */
+.global{
+   padding: 20px;
+}
+.global-box{
+    display: flex;
+    padding: 35px 245px;
+}
+
+.global-text{
+    margin-top: 20px;
+}
+.global-text h1{
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.global-text h2{
+    font-size: 28px;
+    margin-top: 3px;
+}
+
+
+.global-text p{
+    width: 162%;
+    font-size: 15px;
+    color: gray;
+    margin-top: 5px;
+}
+
+.global-text a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 7px;
+    width: 60%;
+    background-color: #ff7675;
+    text-align: center;
+    border-radius: 3px;
+    color: #ffffff;
+    margin-top: 16px;
+    font-size: 13px;
+}
+
+.global-image img{
+    width: 60%;
+    margin-left: 195px;
+}
+/* global style end from here */
+
+/* device style start from here */
+.device{
+    padding: 20px;
+    background-color: #dff9fb;
+}
+
+.divice-box{
+    display: flex;
+    padding: 35px 245px;
+}
+
+.device-image img{
+    height: 400px;
+}
+.device-text{
+    margin-top: 85px;
+}
+
+.device-text h2{
+    text-align: center;
+    color:#2D3436 ;
+}
+
+.device-text p{
+    width: 117%;
+    text-align: center;
+    margin-top: 10px;
+    color: gray;
+}
+
+/* device style end from here */
+
+/* footer style start from here */
+.footer{
+    padding: 20px 20px;
+    background-color: #130f40;
+}
+
+.footer h1{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'The Nautigal', cursive;
+
+}
+.footer h1 span{
+    color: #FF7675;
+    
+}
+
+#small-text{
+    text-align: center;
+    display: block;
+    color: #535c68;
+    margin-top: 5px;
+    font-size: 12px;
+}
+/* footer style end from here */
+
+
